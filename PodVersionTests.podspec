@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name             = "PodVersionTests"
-  s.version          = "1.0.0-beta2"
+  s.version          = "1.0.0"
   s.summary          = "PodVersionTests"
   s.description      = <<-DESC
 PodVersionTests test
